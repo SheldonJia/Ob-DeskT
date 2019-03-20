@@ -282,7 +282,7 @@ final class Log implements LogT
         echo "\$L_return = Log\Log::set('未知原因', Log\Log::LOG_ERROR);<br>";
         echo "\$L_return = Log\Log::set('未知原因', Log\Log::LOG_ERROR, 'frame\core\Db\sqlHelper');<br>";
         echo "\$L_return = Log\Log::set('未知原因', Log\Log::LOG_ERROR, 'frame\core\Db\sqlHelper', '127.0.0.1');<br>";
-        echo "var_dump(\$L_return->Message);<br>";
+        echo "var_dump(Log\Log::e());<br>";
         echo "<br><br>";
         echo "Log::get(文件全路径[string],偏移量[int],结束符[选填string],欲取行数[选填int],块宽度[选填 <= 8])<br>";
         echo "返回一个类 属性：Code 属性：Message<br><br>";
@@ -290,7 +290,7 @@ final class Log implements LogT
         echo "\$L_return = Log\Log::get(DIR_ROOT.'/log/ERROR/2018/01/2018_01_05.ERROR.log.txt', 0);<br>";
         echo "\$L_return = Log\Log::get(DIR_ROOT.'/log/ERROR/2018/01/2018_01_05.ERROR.log.txt', 0, '~');<br>";
         echo "\$L_return = Log\Log::get(DIR_ROOT.'/log/ERROR/2018/01/2018_01_05.ERROR.log.txt', 0, '~',30);<br>";
-        echo "var_dump(\$L_return->Message);<br>";
+        echo "var_dump(Log\Log::e());<br>";
     }
 
     //重构私有克隆函数
