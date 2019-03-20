@@ -10,6 +10,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c29fab2f-5ef0-49ad-9d78-68513f3f3415" name="有余宝" url="http://114.55.179.6">
+        <fileTransfer host="114.55.179.6" port="22" rootFolder="/var/www" accessType="SFTP" password="dff3dfc5dfdfdfd3dfdfdfc8dfcbdfc5df98df9adf9bdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
