@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5525efbc-9565-4e20-a812-54e81954f862" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/log/log.php" afterPath="$PROJECT_DIR$/core/log/log.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/log/log.temp.php" afterPath="$PROJECT_DIR$/core/log/log.temp.php" />
     </list>
     <ignored path="Ob-DeskT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,16 +56,16 @@
       <file leaf-file-name="log.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/log/log.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="456">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
-                <element signature="e#3153#6433#0#PHP" expanded="false" />
-                <element signature="e#4257#6234#0#PHP" expanded="false" />
-                <element signature="e#6492#7077#0#PHP" expanded="false" />
-                <element signature="e#7145#7738#0#PHP" expanded="false" />
-                <element signature="e#7774#7917#0#PHP" expanded="false" />
-                <element signature="e#7975#8220#0#PHP" expanded="false" />
-                <element signature="e#8259#8328#0#PHP" expanded="false" />
+                <element signature="e#6#146#0#PHP" expanded="true" />
+                <element signature="e#4278#6255#0#PHP" expanded="false" />
+                <element signature="e#6509#7094#0#PHP" expanded="false" />
+                <element signature="e#7162#7755#0#PHP" expanded="false" />
+                <element signature="e#7791#7934#0#PHP" expanded="false" />
+                <element signature="e#7992#8237#0#PHP" expanded="false" />
+                <element signature="e#8276#8345#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -280,12 +279,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553083597359</updated>
-      <workItem from="1553083599074" duration="9053000" />
+      <workItem from="1553083599074" duration="9252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9053000" />
+    <option name="totallyTimeSpent" value="9252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
@@ -393,16 +392,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/log/log.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="456">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
-            <element signature="e#3153#6433#0#PHP" expanded="false" />
-            <element signature="e#4257#6234#0#PHP" expanded="false" />
-            <element signature="e#6492#7077#0#PHP" expanded="false" />
-            <element signature="e#7145#7738#0#PHP" expanded="false" />
-            <element signature="e#7774#7917#0#PHP" expanded="false" />
-            <element signature="e#7975#8220#0#PHP" expanded="false" />
-            <element signature="e#8259#8328#0#PHP" expanded="false" />
+            <element signature="e#6#146#0#PHP" expanded="true" />
+            <element signature="e#4278#6255#0#PHP" expanded="false" />
+            <element signature="e#6509#7094#0#PHP" expanded="false" />
+            <element signature="e#7162#7755#0#PHP" expanded="false" />
+            <element signature="e#7791#7934#0#PHP" expanded="false" />
+            <element signature="e#7992#8237#0#PHP" expanded="false" />
+            <element signature="e#8276#8345#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -20,7 +20,9 @@ final class Log implements LogT
 {
     #定义错误类型
     const LOG_ERROR = 'ERROR';
+    #定义类名称
     static private $_className = Log;
+    #定义返回
     static private $_return = array('Result'=>'','Code'=>'','Message'=>'');
 
     //重构私有构造函数
@@ -189,7 +191,7 @@ final class Log implements LogT
         }
         //整理返回信息
         $L_MessageArray = array('Dev'=> ($L_pointer < $L_fileSize ? $L_pointer : 0),'Rows'=>$L_stringArray);
-        //返回 结果类
+        //返回
         return self::r(true,'0',$L_MessageArray);
     }
 
