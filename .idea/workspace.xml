@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5525efbc-9565-4e20-a812-54e81954f862" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/log/log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/log/log.temp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config.php" afterPath="$PROJECT_DIR$/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/log/log.php" afterPath="$PROJECT_DIR$/core/log/log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/log/log.temp.php" afterPath="$PROJECT_DIR$/core/log/log.temp.php" />
     </list>
     <ignored path="Ob-DeskT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,29 +32,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="log.temp.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log.temp.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/log/log.temp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="control.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/control.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#147#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/log/log.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding>
-                <element signature="e#3011#6291#0#PHP" expanded="false" />
-                <element signature="e#4115#6092#0#PHP" expanded="false" />
-                <element signature="e#6350#6935#0#PHP" expanded="false" />
-                <element signature="e#7003#7596#0#PHP" expanded="false" />
-                <element signature="e#7632#7775#0#PHP" expanded="false" />
-                <element signature="e#7833#8078#0#PHP" expanded="false" />
-                <element signature="e#8117#8186#0#PHP" expanded="false" />
+                <element signature="e#3153#6433#0#PHP" expanded="false" />
+                <element signature="e#4257#6234#0#PHP" expanded="false" />
+                <element signature="e#6492#7077#0#PHP" expanded="false" />
+                <element signature="e#7145#7738#0#PHP" expanded="false" />
+                <element signature="e#7774#7917#0#PHP" expanded="false" />
+                <element signature="e#7975#8220#0#PHP" expanded="false" />
+                <element signature="e#8259#8328#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -88,8 +96,8 @@
         <option value="$PROJECT_DIR$/core/control.php" />
         <option value="$PROJECT_DIR$/config/config.php" />
         <option value="&lt;c29fab2f-5ef0-49ad-9d78-68513f3f3415&gt;/frame/core/Log/Config.php" />
-        <option value="$PROJECT_DIR$/core/log/log.php" />
         <option value="$PROJECT_DIR$/core/log/log.temp.php" />
+        <option value="$PROJECT_DIR$/core/log/log.php" />
       </list>
     </option>
   </component>
@@ -196,6 +204,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ob-DeskT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ob-DeskT" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -254,12 +280,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553083597359</updated>
-      <workItem from="1553083599074" duration="8767000" />
+      <workItem from="1553083599074" duration="9053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8767000" />
+    <option name="totallyTimeSpent" value="9053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
@@ -323,18 +349,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/control.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#147#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/log/log.temp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -347,27 +383,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/log/log.php">
+    <entry file="file://$PROJECT_DIR$/core/db/pdo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#3011#6291#0#PHP" expanded="false" />
-            <element signature="e#4115#6092#0#PHP" expanded="false" />
-            <element signature="e#6350#6935#0#PHP" expanded="false" />
-            <element signature="e#7003#7596#0#PHP" expanded="false" />
-            <element signature="e#7632#7775#0#PHP" expanded="false" />
-            <element signature="e#7833#8078#0#PHP" expanded="false" />
-            <element signature="e#8117#8186#0#PHP" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/log/log.temp.php">
+    <entry file="file://$PROJECT_DIR$/core/log/log.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="114">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#3153#6433#0#PHP" expanded="false" />
+            <element signature="e#4257#6234#0#PHP" expanded="false" />
+            <element signature="e#6492#7077#0#PHP" expanded="false" />
+            <element signature="e#7145#7738#0#PHP" expanded="false" />
+            <element signature="e#7774#7917#0#PHP" expanded="false" />
+            <element signature="e#7975#8220#0#PHP" expanded="false" />
+            <element signature="e#8259#8328#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
