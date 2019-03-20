@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a4b8b9f-dc80-4950-83bc-9ecae7019e5f" name="框架" url="http://114.55.179.6:8107">
+        <fileTransfer host="114.55.179.6" port="22" rootFolder="/var/www/ob_deskt" accessType="SFTP" password="dff3dfc5dfdfdfd3dfdfdfc8dfcbdfc5df98df9adf9bdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

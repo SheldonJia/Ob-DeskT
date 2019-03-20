@@ -1,2 +1,1 @@
-<?php 
-echo 'Ob-DeskT';
+<?php echo 'welcome to OB-DeskT';?>
